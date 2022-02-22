@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detector - Mini Project (Special Topic, 3rd semester)
+# Credit Card Fraud Detector - Mini Project (Special Topic, 3rd semester)
 
 This is special topic project repository where we have implemented Credit Card Fraud Detection. 
 We have used the kaggle data set and implemented LabelEncoder, SMOTE-ing and then KNN classifier.
